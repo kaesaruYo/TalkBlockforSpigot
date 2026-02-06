@@ -1,0 +1,16 @@
+name: Talkblock
+main: hahaha.talkblock.Talkblock
+version: 1.0
+api-version: 1.21
+commands:
+  tab:
+    description: 指定プレイヤーをTalkblockします
+    usage: /tab <プレイヤー名> <理由>
+  utab:
+    description: Talkblockを解除します
+    usage: /utab <プレイヤー名> <理由>
+  tablist:
+    description: Talkblock中のプレイヤー一覧を表示します
+    usage: /tablist
+
+
